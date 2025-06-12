@@ -1,5 +1,6 @@
 data.*
 __pycache__
 *.json
-
 data/*
+.DS_Store
+.ipynb_checkpoints/
