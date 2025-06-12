@@ -1,0 +1,2 @@
+# force LF for any shell script
+*.sh text eol=lf

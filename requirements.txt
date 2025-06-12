@@ -4,3 +4,4 @@ pandas
 scikit-learn
 pydotplus
 matplotlib
+scipy
