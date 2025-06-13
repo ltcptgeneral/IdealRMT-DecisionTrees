@@ -1,0 +1,362 @@
+Processing compressed_tree_d10_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d10_b0_naive.json
+TCAM bits: 30336
+RAM bits:  6888
+Processing compressed_tree_d10_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d10_b0_priority.json
+TCAM bits: 26648
+RAM bits:  6888
+Processing compressed_tree_d10_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d10_b1_naive.json
+TCAM bits: 29936
+RAM bits:  6531
+Processing compressed_tree_d10_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d10_b1_priority.json
+TCAM bits: 27120
+RAM bits:  6531
+Processing compressed_tree_d10_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d10_b3_naive.json
+TCAM bits: 21712
+RAM bits:  5649
+Processing compressed_tree_d10_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d10_b3_priority.json
+TCAM bits: 20048
+RAM bits:  5649
+Processing compressed_tree_d11_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d11_b0_naive.json
+TCAM bits: 41248
+RAM bits:  10332
+Processing compressed_tree_d11_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d11_b0_priority.json
+TCAM bits: 37592
+RAM bits:  10332
+Processing compressed_tree_d11_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d11_b1_naive.json
+TCAM bits: 41072
+RAM bits:  9744
+Processing compressed_tree_d11_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d11_b1_priority.json
+TCAM bits: 38256
+RAM bits:  9744
+Processing compressed_tree_d11_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d11_b3_naive.json
+TCAM bits: 28464
+RAM bits:  8190
+Processing compressed_tree_d11_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d11_b3_priority.json
+TCAM bits: 26928
+RAM bits:  8190
+Processing compressed_tree_d12_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d12_b0_naive.json
+TCAM bits: 55680
+RAM bits:  15393
+Processing compressed_tree_d12_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d12_b0_priority.json
+TCAM bits: 51592
+RAM bits:  15393
+Processing compressed_tree_d12_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d12_b1_naive.json
+TCAM bits: 54240
+RAM bits:  14175
+Processing compressed_tree_d12_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d12_b1_priority.json
+TCAM bits: 51200
+RAM bits:  14175
+Processing compressed_tree_d12_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d12_b3_naive.json
+TCAM bits: 36048
+RAM bits:  11361
+Processing compressed_tree_d12_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d12_b3_priority.json
+TCAM bits: 34416
+RAM bits:  11361
+Processing compressed_tree_d13_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d13_b0_naive.json
+TCAM bits: 73152
+RAM bits:  22680
+Processing compressed_tree_d13_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d13_b0_priority.json
+TCAM bits: 69096
+RAM bits:  22680
+Processing compressed_tree_d13_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d13_b1_naive.json
+TCAM bits: 71024
+RAM bits:  20643
+Processing compressed_tree_d13_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d13_b1_priority.json
+TCAM bits: 68160
+RAM bits:  20643
+Processing compressed_tree_d13_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d13_b3_naive.json
+TCAM bits: 45152
+RAM bits:  16002
+Processing compressed_tree_d13_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d13_b3_priority.json
+TCAM bits: 43600
+RAM bits:  16002
+Processing compressed_tree_d14_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d14_b0_naive.json
+TCAM bits: 95760
+RAM bits:  33012
+Processing compressed_tree_d14_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d14_b0_priority.json
+TCAM bits: 91656
+RAM bits:  33012
+Processing compressed_tree_d14_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d14_b1_naive.json
+TCAM bits: 93520
+RAM bits:  29862
+Processing compressed_tree_d14_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d14_b1_priority.json
+TCAM bits: 90544
+RAM bits:  29862
+Processing compressed_tree_d14_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d14_b3_naive.json
+TCAM bits: 56144
+RAM bits:  21819
+Processing compressed_tree_d14_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d14_b3_priority.json
+TCAM bits: 54544
+RAM bits:  21819
+Processing compressed_tree_d15_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d15_b0_naive.json
+TCAM bits: 122496
+RAM bits:  46662
+Processing compressed_tree_d15_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d15_b0_priority.json
+TCAM bits: 118792
+RAM bits:  46662
+Processing compressed_tree_d15_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d15_b1_naive.json
+TCAM bits: 118640
+RAM bits:  41349
+Processing compressed_tree_d15_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d15_b1_priority.json
+TCAM bits: 115984
+RAM bits:  41349
+Processing compressed_tree_d15_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d15_b3_naive.json
+TCAM bits: 68928
+RAM bits:  28875
+Processing compressed_tree_d15_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d15_b3_priority.json
+TCAM bits: 67328
+RAM bits:  28875
+Processing compressed_tree_d1_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d1_b0_naive.json
+TCAM bits: 256
+RAM bits:  42
+Processing compressed_tree_d1_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d1_b0_priority.json
+TCAM bits: 128
+RAM bits:  42
+Processing compressed_tree_d1_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d1_b1_naive.json
+TCAM bits: 256
+RAM bits:  42
+Processing compressed_tree_d1_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d1_b1_priority.json
+TCAM bits: 144
+RAM bits:  42
+Processing compressed_tree_d1_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d1_b3_naive.json
+TCAM bits: 240
+RAM bits:  42
+Processing compressed_tree_d1_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d1_b3_priority.json
+TCAM bits: 128
+RAM bits:  42
+Processing compressed_tree_d2_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d2_b0_naive.json
+TCAM bits: 592
+RAM bits:  105
+Processing compressed_tree_d2_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d2_b0_priority.json
+TCAM bits: 288
+RAM bits:  105
+Processing compressed_tree_d2_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d2_b1_naive.json
+TCAM bits: 592
+RAM bits:  105
+Processing compressed_tree_d2_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d2_b1_priority.json
+TCAM bits: 320
+RAM bits:  105
+Processing compressed_tree_d2_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d2_b3_naive.json
+TCAM bits: 544
+RAM bits:  105
+Processing compressed_tree_d2_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d2_b3_priority.json
+TCAM bits: 288
+RAM bits:  105
+Processing compressed_tree_d3_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d3_b0_naive.json
+TCAM bits: 1120
+RAM bits:  210
+Processing compressed_tree_d3_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d3_b0_priority.json
+TCAM bits: 640
+RAM bits:  210
+Processing compressed_tree_d3_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d3_b1_naive.json
+TCAM bits: 1120
+RAM bits:  210
+Processing compressed_tree_d3_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d3_b1_priority.json
+TCAM bits: 680
+RAM bits:  210
+Processing compressed_tree_d3_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d3_b3_naive.json
+TCAM bits: 944
+RAM bits:  210
+Processing compressed_tree_d3_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d3_b3_priority.json
+TCAM bits: 576
+RAM bits:  210
+Processing compressed_tree_d4_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d4_b0_naive.json
+TCAM bits: 1880
+RAM bits:  357
+Processing compressed_tree_d4_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d4_b0_priority.json
+TCAM bits: 1128
+RAM bits:  357
+Processing compressed_tree_d4_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d4_b1_naive.json
+TCAM bits: 1880
+RAM bits:  357
+Processing compressed_tree_d4_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d4_b1_priority.json
+TCAM bits: 1208
+RAM bits:  357
+Processing compressed_tree_d4_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d4_b3_naive.json
+TCAM bits: 1632
+RAM bits:  336
+Processing compressed_tree_d4_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d4_b3_priority.json
+TCAM bits: 1024
+RAM bits:  336
+Processing compressed_tree_d5_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d5_b0_naive.json
+TCAM bits: 3608
+RAM bits:  609
+Processing compressed_tree_d5_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d5_b0_priority.json
+TCAM bits: 2200
+RAM bits:  609
+Processing compressed_tree_d5_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d5_b1_naive.json
+TCAM bits: 3608
+RAM bits:  609
+Processing compressed_tree_d5_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d5_b1_priority.json
+TCAM bits: 2376
+RAM bits:  609
+Processing compressed_tree_d5_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d5_b3_naive.json
+TCAM bits: 2704
+RAM bits:  546
+Processing compressed_tree_d5_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d5_b3_priority.json
+TCAM bits: 1824
+RAM bits:  546
+Processing compressed_tree_d6_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d6_b0_naive.json
+TCAM bits: 6440
+RAM bits:  1134
+Processing compressed_tree_d6_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d6_b0_priority.json
+TCAM bits: 4512
+RAM bits:  1134
+Processing compressed_tree_d6_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d6_b1_naive.json
+TCAM bits: 6440
+RAM bits:  1134
+Processing compressed_tree_d6_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d6_b1_priority.json
+TCAM bits: 4776
+RAM bits:  1134
+Processing compressed_tree_d6_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d6_b3_naive.json
+TCAM bits: 4832
+RAM bits:  1008
+Processing compressed_tree_d6_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d6_b3_priority.json
+TCAM bits: 3648
+RAM bits:  1008
+Processing compressed_tree_d7_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d7_b0_naive.json
+TCAM bits: 10344
+RAM bits:  1848
+Processing compressed_tree_d7_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d7_b0_priority.json
+TCAM bits: 7808
+RAM bits:  1848
+Processing compressed_tree_d7_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d7_b1_naive.json
+TCAM bits: 10312
+RAM bits:  1806
+Processing compressed_tree_d7_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d7_b1_priority.json
+TCAM bits: 8136
+RAM bits:  1806
+Processing compressed_tree_d7_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d7_b3_naive.json
+TCAM bits: 7760
+RAM bits:  1596
+Processing compressed_tree_d7_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d7_b3_priority.json
+TCAM bits: 6352
+RAM bits:  1596
+Processing compressed_tree_d8_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d8_b0_naive.json
+TCAM bits: 15672
+RAM bits:  3003
+Processing compressed_tree_d8_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d8_b0_priority.json
+TCAM bits: 12640
+RAM bits:  3003
+Processing compressed_tree_d8_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d8_b1_naive.json
+TCAM bits: 15576
+RAM bits:  2919
+Processing compressed_tree_d8_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d8_b1_priority.json
+TCAM bits: 13160
+RAM bits:  2919
+Processing compressed_tree_d8_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d8_b3_naive.json
+TCAM bits: 11504
+RAM bits:  2625
+Processing compressed_tree_d8_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d8_b3_priority.json
+TCAM bits: 10016
+RAM bits:  2625
+Processing compressed_tree_d9_b0.json with mode naive
+Output written to results\rmt\compressed_tree_d9_b0_naive.json
+TCAM bits: 22640
+RAM bits:  4662
+Processing compressed_tree_d9_b0.json with mode priority
+Output written to results\rmt\compressed_tree_d9_b0_priority.json
+TCAM bits: 18936
+RAM bits:  4662
+Processing compressed_tree_d9_b1.json with mode naive
+Output written to results\rmt\compressed_tree_d9_b1_naive.json
+TCAM bits: 22784
+RAM bits:  4557
+Processing compressed_tree_d9_b1.json with mode priority
+Output written to results\rmt\compressed_tree_d9_b1_priority.json
+TCAM bits: 19872
+RAM bits:  4557
+Processing compressed_tree_d9_b3.json with mode naive
+Output written to results\rmt\compressed_tree_d9_b3_naive.json
+TCAM bits: 16560
+RAM bits:  3948
+Processing compressed_tree_d9_b3.json with mode priority
+Output written to results\rmt\compressed_tree_d9_b3_priority.json
+TCAM bits: 14880
+RAM bits:  3948
+All runs complete.
+Press any key to continue . . . 

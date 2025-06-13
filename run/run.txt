@@ -1,0 +1,272 @@
+Running depth=1 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.6249802762830571
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.6249802762830571
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d1_b0.json
+Running depth=1 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.6249802762830571
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.6249802762830571
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d1_b1.json
+Running depth=1 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.6249802762830571
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.6249802762830571
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d1_b3.json
+Running depth=2 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.6329657127591488
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.6329657127591488
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d2_b0.json
+Running depth=2 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.6329657127591488
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.632965582569598
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d2_b1.json
+Running depth=2 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.6329657127591488
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.632991490290203
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d2_b3.json
+Running depth=3 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.6770542739406867
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.6770542739406867
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d3_b0.json
+Running depth=3 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.6770542739406867
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.6770412549856089
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d3_b1.json
+Running depth=3 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.6770542739406867
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.6785083610333301
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d3_b3.json
+Running depth=4 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.7785798611346175
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.7785798611346175
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d4_b0.json
+Running depth=4 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.7785798611346175
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.7762147075656273
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d4_b1.json
+Running depth=4 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.7785798611346175
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7764365505601536
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d4_b3.json
+Running depth=5 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.8410252791654538
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.8410252791654538
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d5_b0.json
+Running depth=5 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.8410252791654538
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.834092425207405
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d5_b1.json
+Running depth=5 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.8410252791654538
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.772544924508287
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d5_b3.json
+Running depth=6 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.8646269522574087
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.8646269522574087
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d6_b0.json
+Running depth=6 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.8646269522574087
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.8576925360247506
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d6_b1.json
+Running depth=6 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.8646269522574087
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.794651761178205
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d6_b3.json
+Running depth=7 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.8806056365826389
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.8806056365826389
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d7_b0.json
+Running depth=7 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.8806056365826389
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.8736095105029118
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d7_b1.json
+Running depth=7 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.8806056365826389
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7695685309983924
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d7_b3.json
+Running depth=8 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.8930218140403702
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.8930218140403702
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d8_b0.json
+Running depth=8 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.8930218140403702
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.8853817704424934
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d8_b1.json
+Running depth=8 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.8930218140403702
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7773965683075931
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d8_b3.json
+Running depth=9 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.9065990219119429
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.9065990219119429
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d9_b0.json
+Running depth=9 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.9065990219119429
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.8971600191014109
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d9_b1.json
+Running depth=9 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.9065990219119429
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7901483744272311
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d9_b3.json
+Running depth=10 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.9131070673658019
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.9131070673658019
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d10_b0.json
+Running depth=10 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.9131070673658019
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.9012124292484887
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d10_b1.json
+Running depth=10 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.9131070673658019
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7823837394292594
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d10_b3.json
+Running depth=11 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.9167131877328115
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.9167131877328115
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d11_b0.json
+Running depth=11 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.9167131877328115
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.9033505322409215
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d11_b1.json
+Running depth=11 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.9167131877328115
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7834850128392935
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d11_b3.json
+Running depth=12 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.9190772997853955
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.9190772997853955
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d12_b0.json
+Running depth=12 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.9190772997853955
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.9050692946902973
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d12_b1.json
+Running depth=12 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.9190772997853955
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7733082258445005
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d12_b3.json
+Running depth=13 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.9210431620021486
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.9210431620021486
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d13_b0.json
+Running depth=13 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.9210431620021486
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.9069113466442602
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d13_b1.json
+Running depth=13 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.9210431620021486
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7656775558942799
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d13_b3.json
+Running depth=14 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.9232170671210456
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.9232170671210456
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d14_b0.json
+Running depth=14 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.9232169369314948
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.9071005120615411
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d14_b1.json
+Running depth=14 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.9232170671210456
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.7649352150757417
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d14_b3.json
+Running depth=15 bits=0
+dataset size: 7681108
+train accuracy (before nudging): 0.9249752770043072
+nudging enabled, removed bottom 0 bit(s) per threshold
+train accuracy (after  nudging): 0.9249752770043072
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d15_b0.json
+Running depth=15 bits=1
+dataset size: 7681108
+train accuracy (before nudging): 0.9249752770043072
+nudging enabled, removed bottom 1 bit(s) per threshold
+train accuracy (after  nudging): 0.908089692268355
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d15_b1.json
+Running depth=15 bits=3
+dataset size: 7681108
+train accuracy (before nudging): 0.9249752770043072
+nudging enabled, removed bottom 3 bit(s) per threshold
+train accuracy (after  nudging): 0.762985496363285
+Wrote tree to C:\Users\jaipa\CS\cs216\IdealRMT-DecisionTrees\run\results\tree\tree_d15_b3.json
+All runs complete
+Press any key to continue . . . 
