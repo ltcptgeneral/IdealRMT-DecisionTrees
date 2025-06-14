@@ -20,4 +20,12 @@ Run `extract_all_datasets.py` which will extract the data from each file in `dat
 
 ## Training
 
-Run `DecisionTree.ipynb`, the tree should be output in `tree`
+Run `DecisionTree.ipynb`, the tree should be output in `tree.json`
+
+## Compression
+
+Run `TreeCompress.ipynb`, the tree should be output in `compressed_tree.json`
+
+## RMT
+
+Run `TreeToRMT.ipynb`, it will report the TCAM and SRAM usage of the compressed tree
