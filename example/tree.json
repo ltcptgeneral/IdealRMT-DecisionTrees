@@ -1,0 +1,744 @@
+{
+    "features": {
+        "dst": [
+            47936.0,
+            2128.0,
+            5024.0,
+            2224.0,
+            25856.0,
+            47936.0,
+            49168.0,
+            49152.0
+        ],
+        "src": [
+            64.0,
+            64.0,
+            816.0,
+            128.0,
+            43008.0,
+            5232.0,
+            288.0,
+            2480.0,
+            1584.0,
+            9040.0,
+            4784.0,
+            50384.0
+        ],
+        "protocl": [
+            0.0,
+            0.0
+        ]
+    },
+    "paths": [
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 64.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 64.0
+                },
+                {
+                    "feature": "protocl",
+                    "operation": "<=",
+                    "value": 0.0
+                }
+            ],
+            "classification": 19,
+            "id": 0
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 64.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 64.0
+                },
+                {
+                    "feature": "protocl",
+                    "operation": ">",
+                    "value": 0.0
+                }
+            ],
+            "classification": 19,
+            "id": 1
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 64.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 64.0
+                }
+            ],
+            "classification": 8,
+            "id": 2
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 64.0
+                },
+                {
+                    "feature": "protocl",
+                    "operation": "<=",
+                    "value": 0.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 816.0
+                }
+            ],
+            "classification": 4,
+            "id": 3
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 64.0
+                },
+                {
+                    "feature": "protocl",
+                    "operation": "<=",
+                    "value": 0.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 816.0
+                }
+            ],
+            "classification": 19,
+            "id": 4
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 64.0
+                },
+                {
+                    "feature": "protocl",
+                    "operation": ">",
+                    "value": 0.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 128.0
+                }
+            ],
+            "classification": 19,
+            "id": 5
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 64.0
+                },
+                {
+                    "feature": "protocl",
+                    "operation": ">",
+                    "value": 0.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 128.0
+                }
+            ],
+            "classification": 19,
+            "id": 6
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 5024.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 2224.0
+                }
+            ],
+            "classification": 11,
+            "id": 7
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 5024.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2224.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 43008.0
+                }
+            ],
+            "classification": 19,
+            "id": 8
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 5024.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2224.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 43008.0
+                }
+            ],
+            "classification": 1,
+            "id": 9
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 5024.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 5232.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 288.0
+                }
+            ],
+            "classification": 19,
+            "id": 10
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 5024.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 5232.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 288.0
+                }
+            ],
+            "classification": 7,
+            "id": 11
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 5024.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 5232.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 25856.0
+                }
+            ],
+            "classification": 19,
+            "id": 12
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 2128.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 5024.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 5232.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 25856.0
+                }
+            ],
+            "classification": 19,
+            "id": 13
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 47936.0
+                }
+            ],
+            "classification": 3,
+            "id": 14
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 49152.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 2480.0
+                }
+            ],
+            "classification": 7,
+            "id": 15
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 49152.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 2480.0
+                }
+            ],
+            "classification": 10,
+            "id": 16
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 49152.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 1584.0
+                }
+            ],
+            "classification": 16,
+            "id": 17
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": "<=",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 49152.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 1584.0
+                }
+            ],
+            "classification": 2,
+            "id": 18
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 9040.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 4784.0
+                }
+            ],
+            "classification": 15,
+            "id": 19
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 9040.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 4784.0
+                }
+            ],
+            "classification": 17,
+            "id": 20
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 9040.0
+                },
+                {
+                    "feature": "src",
+                    "operation": "<=",
+                    "value": 50384.0
+                }
+            ],
+            "classification": 19,
+            "id": 21
+        },
+        {
+            "conditions": [
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 47936.0
+                },
+                {
+                    "feature": "dst",
+                    "operation": ">",
+                    "value": 49168.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 9040.0
+                },
+                {
+                    "feature": "src",
+                    "operation": ">",
+                    "value": 50384.0
+                }
+            ],
+            "classification": 19,
+            "id": 22
+        }
+    ],
+    "classes": [
+        "Amazon Echo",
+        "Belkin Motion Sensor",
+        "Belkin Switch",
+        "Dropcam",
+        "HP Printer",
+        "LiFX Bulb",
+        "NEST Smoke Sensor",
+        "Netatmo Camera",
+        "Netatmo Weather station",
+        "Pixstart photo frame",
+        "Samsung Smart Cam",
+        "Smart Things",
+        "TP-Link Camera",
+        "TP-Link Plug",
+        "Triby Speaker",
+        "Withings",
+        "Withings Scale",
+        "Withings sleep sensor",
+        "iHome PowerPlug",
+        "other"
+    ]
+}

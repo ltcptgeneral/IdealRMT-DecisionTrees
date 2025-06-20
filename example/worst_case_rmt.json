@@ -1,0 +1,47 @@
+[
+    {
+        "id": "dst_range",
+        "step": 0,
+        "match": "ternary",
+        "entries": 288,
+        "key_size": 16
+    },
+    {
+        "id": "dst_meta",
+        "step": 0,
+        "match": "exact",
+        "method": "index",
+        "key_size": 4,
+        "data_size": 20
+    },
+    {
+        "id": "src_range",
+        "step": 1,
+        "match": "ternary",
+        "entries": 384,
+        "key_size": 16
+    },
+    {
+        "id": "src_meta",
+        "step": 1,
+        "match": "exact",
+        "method": "index",
+        "key_size": 4,
+        "data_size": 20
+    },
+    {
+        "id": "protocl_range",
+        "step": 2,
+        "match": "ternary",
+        "entries": 32,
+        "key_size": 8
+    },
+    {
+        "id": "protocl_meta",
+        "step": 2,
+        "match": "exact",
+        "method": "index",
+        "key_size": 1,
+        "data_size": 20
+    }
+]
